@@ -1,2 +1,1 @@
-# ML_Lab8
-K-Nearest Neighbors (KNN) Classification Project
+This project uses the K-Nearest Neighbors (KNN) algorithm to classify data based on feature similarity. It includes data preprocessing, feature scaling, model training, and evaluation to achieve accurate predictions.
